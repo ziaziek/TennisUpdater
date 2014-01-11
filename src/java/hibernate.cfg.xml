@@ -4,7 +4,7 @@
   <session-factory>
     <property name="hibernate.dialect">org.hibernate.dialect.FirebirdDialect</property>
     <property name="hibernate.connection.driver_class">org.firebirdsql.jdbc.FBDriver</property>
-    <property name="hibernate.connection.url">jdbc:firebirdsql://C:\Users\resultsgrabber\tennis - serwer.fdb</property>
+    <property name="hibernate.connection.url">jdbc:firebirdsql://C:\Users\resultsgrabber\Serwer\tennis - serwer.fdb</property>
     <property name="hibernate.connection.username">sysdba</property>
     <property name="hibernate.connection.password">derek</property>
     <mapping class="data.Players" file="" jar="" package="" resource="data/Players.hbm.xml"/>

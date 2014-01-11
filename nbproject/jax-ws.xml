@@ -4,6 +4,9 @@
     <service name="DataUpdate">
       <implementation-class>services.DataUpdate</implementation-class>
     </service>
+    <service name="DownloadService">
+      <implementation-class>services.DownloadService</implementation-class>
+    </service>
   </services>
   <clients/>
   <jsr109>false</jsr109>
